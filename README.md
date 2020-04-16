@@ -26,7 +26,7 @@ provides to the students of the University and not from outside.
    ii) Triggers
 
 ---
-## Working and Screenshots
+## Sql/PLSQL Query, Working and Screenshots:
 
 [sql library system project.pdf](https://github.com/prakash090200/Library-System-Management-using-oracle-tools/files/4487820/sql.library.system.project.pdf)
 
