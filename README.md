@@ -14,4 +14,5 @@ provides to the students of the University and not from outside.
 
 ---
 ## ER Diagram
+![WhatsApp Image 2020-04-16 at 19 53 03](https://user-images.githubusercontent.com/59432256/79468997-44820500-801d-11ea-9ba4-68e523d78f27.jpeg)
 
