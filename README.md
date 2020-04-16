@@ -15,7 +15,7 @@ provides to the students of the University and not from outside.
 ---
 ## ER Diagram
 
-![ER Diagram](https://user-images.githubusercontent.com/59432256/79470140-aee77500-801e-11ea-80a8-a8266120b833.jpeg)
+![ER Diagram](https://user-images.githubusercontent.com/59432256/79470474-11407580-801f-11ea-8960-efe61ef9431e.jpeg)
 
 ---
 ## Tools Used:
