@@ -15,4 +15,17 @@ provides to the students of the University and not from outside.
 ---
 ## ER Diagram
 ![WhatsApp Image 2020-04-16 at 19 53 03](https://user-images.githubusercontent.com/59432256/79468997-44820500-801d-11ea-9ba4-68e523d78f27.jpeg)
+![ER Diagram](https://user-images.githubusercontent.com/59432256/79469213-86ab4680-801d-11ea-908f-d64f773e1855.jpeg)
+
+---
+## Tools Used:
+1) Oracle MYsql 
+2) Oracle PLSQL
+   i) Procedure 
+   ii) Triggers
+
+---
+## Working and Screenshots
+
+
 
