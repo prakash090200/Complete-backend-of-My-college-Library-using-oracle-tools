@@ -1,4 +1,4 @@
-### Library-System-Management-using-oracle-tools
+### Complete backend of my college Library-using-oracle-tools
 Its a  University Library  for both Faculty and Student. The Library accommodates a collection of Books, Journals, Monographs and Transactions.Proper Database is maintained and proper Timing is maintained for students and teacher to issue and return books.
 Students need ID cards to get entry in libraries, and not allowed to carry more than 2 items  (done using procedure in PLSQL)
 An Online Library portal is also maintained so that users can view information about their
